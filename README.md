@@ -34,6 +34,6 @@ The application will be accessible at http://localhost:8080.
 
 ### Used Data
 
-The used dataset is accessible on Kaggle at https://www.kaggle.com/datasets/fransell/gemstones-images-expanded.
+The used dataset is accessible on Kaggle at https://www.kaggle.com/datasets/fransell/gemstones-images-expanded. Download the file and save it in the root directory of the project in a folder called "gemstone-images".
 
 
